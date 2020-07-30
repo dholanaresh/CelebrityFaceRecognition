@@ -11,8 +11,8 @@ In this data science and machine learning project, I classify sports personaliti
 5. Lionel Messi
 
 Here is the folder structure,
-. UI : This contains ui website code
-. server: Python flask server
-. model: Contains python notebook for model building
-. Dataset: Dataset used for our model training
+- UI : This contains ui website code
+- server: Python flask server
+- model: Contains python notebook for model building
+- Dataset: Dataset used for our model training
 
